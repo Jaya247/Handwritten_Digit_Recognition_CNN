@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition Using Deep Learning and CNN
 
-## Project Overview
+## Project Overview       
 This project uses Deep Learning and a Convolutional Neural Network (CNN) to recognize handwritten digits from 0 to 9. It uses the MNIST dataset to train and evaluate the model.
 
 ## Problem Statement
