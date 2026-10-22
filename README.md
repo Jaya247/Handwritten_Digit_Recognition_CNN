@@ -2,7 +2,7 @@
 
 ## Project Overview       
 This project uses Deep Learning and a Convolutional Neural Network (CNN) to recognize handwritten digits from 0 to 9. It uses the MNIST dataset to train and evaluate the model.
-
+         
 ## Problem Statement
 Handwritten digits can vary in shape, size, and writing style, making automatic recognition challenging. This project aims to classify handwritten digit images accurately using a deep learning model.
 
